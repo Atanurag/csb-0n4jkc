@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://atanurag.github.io/csb-0n4jkc/static/css/main.c56a01e0.chunk.css",
-    "main.js": "https://atanurag.github.io/csb-0n4jkc/static/js/main.bcc03904.chunk.js",
-    "main.js.map": "https://atanurag.github.io/csb-0n4jkc/static/js/main.bcc03904.chunk.js.map",
+    "main.js": "https://atanurag.github.io/csb-0n4jkc/static/js/main.9c5da566.chunk.js",
+    "main.js.map": "https://atanurag.github.io/csb-0n4jkc/static/js/main.9c5da566.chunk.js.map",
     "runtime-main.js": "https://atanurag.github.io/csb-0n4jkc/static/js/runtime-main.61b8a10f.js",
     "runtime-main.js.map": "https://atanurag.github.io/csb-0n4jkc/static/js/runtime-main.61b8a10f.js.map",
-    "static/js/2.15bcf928.chunk.js": "https://atanurag.github.io/csb-0n4jkc/static/js/2.15bcf928.chunk.js",
-    "static/js/2.15bcf928.chunk.js.map": "https://atanurag.github.io/csb-0n4jkc/static/js/2.15bcf928.chunk.js.map",
+    "static/js/2.cdc64453.chunk.js": "https://atanurag.github.io/csb-0n4jkc/static/js/2.cdc64453.chunk.js",
+    "static/js/2.cdc64453.chunk.js.map": "https://atanurag.github.io/csb-0n4jkc/static/js/2.cdc64453.chunk.js.map",
     "index.html": "https://atanurag.github.io/csb-0n4jkc/index.html",
     "static/css/main.c56a01e0.chunk.css.map": "https://atanurag.github.io/csb-0n4jkc/static/css/main.c56a01e0.chunk.css.map",
-    "static/js/2.15bcf928.chunk.js.LICENSE.txt": "https://atanurag.github.io/csb-0n4jkc/static/js/2.15bcf928.chunk.js.LICENSE.txt"
+    "static/js/2.cdc64453.chunk.js.LICENSE.txt": "https://atanurag.github.io/csb-0n4jkc/static/js/2.cdc64453.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.61b8a10f.js",
-    "static/js/2.15bcf928.chunk.js",
+    "static/js/2.cdc64453.chunk.js",
     "static/css/main.c56a01e0.chunk.css",
-    "static/js/main.bcc03904.chunk.js"
+    "static/js/main.9c5da566.chunk.js"
   ]
 }
